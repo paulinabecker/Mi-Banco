@@ -1,6 +1,7 @@
 # Mi-Banco
 
 Descripción
+
 La empresa Mi Banco SPA está recién registrada y está en búsqueda de un desarrollador full
 stack developer que empiece a crear su sistema de transacciones. Previamente los dueños
 de esta empresa habían intentado crear una institución bancaria pero el software que
